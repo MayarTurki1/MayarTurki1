@@ -59,7 +59,7 @@ An AI-powered framework specialized in Saudi commercial law, combining multiple 
 
 **Technologies:** AI · NLP · Machine Learning
 
-[View Project]((https://github.com/MayarTurki1/Tri-Model-Smart-Justice-Framework---TMSJ)https://github.com/MayarTurki1/Tri-Model-Smart-Justice-Framework---TMSJ)
+[View Project](https://github.com/MayarTurki1/Tri-Model-Smart-Justice-Framework---TMSJ)
 
 ## Connect With Me
 
