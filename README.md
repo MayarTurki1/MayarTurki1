@@ -63,5 +63,5 @@ An AI-powered framework specialized in Saudi commercial law, combining multiple 
 
 ## Connect With Me
 
-[LinkedIn]((https://www.linkedin.com/in/mayar-alowaydhi)) · [Email](Mayar515@hotmail.com)!--
+[LinkedIn](https://www.linkedin.com/in/mayar-alowaydhi) · [Email](mailto:Mayar515@hotmail.com)
 
