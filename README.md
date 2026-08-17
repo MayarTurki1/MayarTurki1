@@ -2,7 +2,7 @@
 
 Data Science Graduate | Data Analytics | Machine Learning | AI
 
-I’m a Data Science graduate interested in data analytics, machine learning, and AI. 
+I’m a Data Science graduate interested in data analytics, machine learning, and AI.  
 I enjoy working with data to uncover insights and building practical, data-driven solutions.
 
 ## About Me
@@ -25,7 +25,14 @@ Power BI · Tableau · Matplotlib · Seaborn · Excel
 Scikit-learn · TensorFlow · PyTorch · NLP · Hugging Face
 
 ### Tools & Platforms
-Jupyter Notebook · Google Colab · GitHub · MySQL ·  PyCharm
+Jupyter Notebook · Google Colab · GitHub · MySQL · PyCharm
+
+## What I Bring
+
+- Analytical mindset and problem-solving approach
+- Strong teamwork and communication skills
+- Curiosity and willingness to learn
+- Adaptability and attention to detail
 
 ## Featured Projects
 
@@ -43,7 +50,7 @@ Arabic dialect classification comparing a traditional TF-IDF + Logistic Regressi
 
 **Technologies:** Python · NLP · TF-IDF · Logistic Regression · MARBERT
 
-[View Project]((https://github.com/MayarTurki1/Arabic-Dialect-Identification-TF-IDF-MARBERT)https://github.com/MayarTurki1/Arabic-Dialect-Identification-TF-IDF-MARBERT)
+[View Project](https://github.com/MayarTurki1/Arabic-Dialect-Identification-TF-IDF-MARBERT)
 
 ### Intelligent Customer Support Chatbot
 
@@ -51,7 +58,7 @@ A customer support chatbot project exploring DialoGPT, RoBERTa, and OPT-125M for
 
 **Technologies:** Python · NLP · Transformers · DialoGPT · RoBERTa · OPT-125M
 
-[View Project](https://github.com/MayarTurki1/Customer-Support-Chatbot-DialoGPT-RoBERTa-OPThttps://github.com/MayarTurki1/Customer-Support-Chatbot-DialoGPT-RoBERTa-OPT)
+[View Project](https://github.com/MayarTurki1/Customer-Support-Chatbot-DialoGPT-RoBERTa-OPT)
 
 ### Tri-Model Smart Justice Framework (TMSJ)
 
@@ -64,4 +71,3 @@ An AI-powered framework specialized in Saudi commercial law, combining multiple 
 ## Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/mayar-alowaydhi) · [Email](mailto:Mayar515@hotmail.com)
-
