@@ -1,4 +1,4 @@
-<# Hi, I'm Mayar Alowaydhi
+# Hi, I'm Mayar Alowaydhi
 
 Data Science Graduate | Data Analytics | Machine Learning | AI
 
@@ -35,7 +35,7 @@ Comparative evaluation of Decision Tree, Logistic Regression, Gradient Boosting,
 
 **Technologies:** Python · Scikit-learn · TensorFlow · Pandas
 
-[View Project](YOUR-REPOSITORY-LINK)
+[View Project](https://github.com/MayarTurki1/Lung-Cancer-Prediction-ML-vs-MLP)
 
 ### Arabic Dialect Identification Using TF-IDF and MARBERT
 
