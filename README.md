@@ -111,4 +111,8 @@ Recognized for outstanding performance and commitment to excellence through a co
 
 I’m open to opportunities in data analytics, data science, AI, and machine learning.
 
-[LinkedIn](https://www.linkedin.com/in/mayar-alowaydhi) · [Email](mailto:Mayar515@hotmail.com)
+[LinkedIn](## Let's Connect
+
+I’m open to opportunities in data analytics, data science, AI, and machine learning.
+
+[LinkedIn](https://www.linkedin.com/in/mayar-alowaydhi-6613a1275) · [Email](mailto:Mayar515@hotmail.com)
