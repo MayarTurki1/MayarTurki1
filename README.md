@@ -91,7 +91,7 @@ A customer support chatbot exploring transformer-based models for response gener
 
 Umm Al-Qura University
 
-**GPA:** 3.5 / 4.0
+**GPA:** 3.57 / 4.0
 
 ---
 
